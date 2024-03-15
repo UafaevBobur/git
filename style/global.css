@@ -1,0 +1,50 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 0 auto;
+    background-color: aqua;
+    width: 500px;
+}
+
+.box{
+    width: 200px;
+    border-style: solid;
+    border-color: green;
+    border-radius: 5%;
+    background-color: yellow;
+    margin-right: 30px;
+    font-size: 15px;
+}
+
+.m{
+    background-color: gray;
+    width: 75px;
+    border-style: solid;
+    border-color: green;
+    border-radius: 5px;
+    margin-left: 1%;
+}
+
+.z{
+    color: green;
+}
+
+.l{
+    display: flex;
+}
+
+.d{
+    font-size: 20px;
+}
+
+.q{
+    font-size: 20px;
+}
+
+.f{
+    font-size: 20px;
+}
